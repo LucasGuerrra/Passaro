@@ -47,6 +47,7 @@
             function preload() {
                 //fazendo upload das imagens pro site
                 this.load.image('bg', 'assets/bg_space.png');
+                //link de onde eu tirei a imagem da minhoca(https://br.vexels.com/png-svg/previsualizar/232967/tra-o-de-cor-de-minhoca-simples)
                 this.load.image('minhoca', 'assets/minhoca.png');
                 this.load.spritesheet('bird', 'assets/bird-purple.png',{frameWidth:75,frameHeight:75});
             }
